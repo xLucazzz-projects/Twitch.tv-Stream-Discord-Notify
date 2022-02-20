@@ -1,0 +1,15 @@
+{
+    "bot": {
+        "token": ""
+    },
+
+    "twitch_notify": {
+        "twitch_client_id": "",
+        "twitch_client_secret": "",
+        "channel_notify": "",
+        "twitch_channels": [
+            "xlucazzz___",
+            "blxckoutz"
+        ]
+    }
+}
